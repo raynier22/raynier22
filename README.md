@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raynier
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently going to college for Computer Science
+- 💞️ I’m looking to collaborate in projects
 - 📫 Reach me at raynier.enc@outlook.com
 
 <!---
